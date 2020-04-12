@@ -58,3 +58,4 @@ StreetData$Month <-as.Date(StreetData$Month, origin = "1899-12-30")
 
 #identify N/A's with completed cases function
 complete.cases(StreetData)
+a<-1
